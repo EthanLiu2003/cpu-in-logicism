@@ -662,7 +662,7 @@
       <a name="label" val="add0"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="0" loc="(950,410)" name="Tunnel">
+    <comp lib="0" loc="(950,460)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="ALUSel"/>
       <a name="width" val="4"/>
@@ -826,5 +826,6 @@
     <wire from="(900,300)" to="(930,300)"/>
     <wire from="(900,310)" to="(930,310)"/>
     <wire from="(910,250)" to="(930,250)"/>
+    <wire from="(950,410)" to="(950,460)"/>
   </circuit>
 </project>
